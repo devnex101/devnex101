@@ -1,47 +1,46 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,20&height=200&section=header&text=Welcome%20to%20my%20Space%20✨&fontSize=42&fontColor=fff&animation=twinkling" width="100%" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+AI+Explorer;Building+Scalable+Solutions;Always+Learning+%26+Building..." alt="Typing SVG" />
-  </a>
+# Hi there, I'm **HsnDev** 👋
+
+### **AI & Software Engineer**
+*Building High-Performance Edge AI Pipelines, Scalable Systems & Data Solutions*
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=Data+Science+%26+AI;Computer+Vision+%7C+ONNX+Runtime;Linux+%7C+Docker+%7C+WSL2)](https://git.io/typing-svg)
+
 </div>
 
-<br/>
+---
 
-## ⚡ Tech Stack & Tools
+## 💻 Tech Stack & Tools
 
-<p align="center">
-  <!-- Python -->
-  <img src="https://raw.githubusercontent.com/gauravghai/GIF-Tech-Icons/master/python.gif" width="50" height="50" alt="Python" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Docker -->
-  <img src="https://raw.githubusercontent.com/gauravghai/GIF-Tech-Icons/master/docker.gif" width="50" height="50" alt="Docker" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Linux -->
-  <img src="https://raw.githubusercontent.com/gauravghai/GIF-Tech-Icons/master/linux.gif" width="50" height="50" alt="Linux" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- VS Code -->
-  <img src="https://raw.githubusercontent.com/gauravghai/GIF-Tech-Icons/master/vscode.gif" width="50" height="50" alt="VSCode" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Git -->
-  <img src="https://raw.githubusercontent.com/gauravghai/GIF-Tech-Icons/master/git.gif" width="50" height="50" alt="Git" />
+### **Languages & Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+</p>
+
+### **DevOps & Infrastructure**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
-## 📈 GitHub Metrics
+## ⚡ System Architecture & Focus
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Unaufhaltsam1&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unaufhaltsam1&layout=compact&theme=dracula&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unaufhaltsam1&theme=dracula&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Unaufhaltsam1&color=blueviolet&style=for-the-badge" />
-</p>
+```yaml
+Developer:
+  Role: AI Systems Engineer
+  Core_Focus:
+    - Real-Time Computer Vision
+    - Edge AI Optimization (ONNX / TensorRT)
+    - Containerized Workflows (WSL2 + Docker)
+  Current_Status: "Building & Architecting Open Source AI Tools"
