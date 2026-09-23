@@ -1,46 +1,42 @@
 <div align="center">
 
-# Hi there, I'm **HsnDev** 👋
+<!-- Cyber AI Banner Header -->
+<img src="https://capsule-render.vercel.app/api?type=cyber&color=0:0d1117,50:00f5d4,100:00b4d8&height=220&section=header&text=HsnDev%20//%20AI%20Architect&fontSize=48&fontColor=fff&animation=twinkling" width="100%" />
 
-### **AI & Software Engineer**
-*Building High-Performance Edge AI Pipelines, Scalable Systems & Data Solutions*
-
----
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=Data+Science+%26+AI;Computer+Vision+%7C+ONNX+Runtime;Linux+%7C+Docker+%7C+WSL2)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=%3E_++Senior+Architect+%2F%2F+Edge+AI+%26+Vision;%3E_++Real-Time+Computer+Vision+%7C+ONNX+Runtime;%3E_++Building+Scalable+MLOps+%26+Containerized+AI" alt="Typing SVG" />
+</a>
 
 </div>
 
 ---
 
-## 💻 Tech Stack & Tools
+## 💻 System Architecture & Core Stack
 
-### **Languages & Frameworks**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ Terminal Core Environment</h3>
+      
+```cpp
+// Core Engine Initialization
+#include <vision/core.h>
+#include <onnxruntime/core.h>
 
-### **DevOps & Infrastructure**
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</p>
+import torch.nn as nn
 
----
+auto main() -> int {
+    SystemConfig config {
+        .target = Device::EDGE_GPU,
+        .precision = Precision::FP16,
+        .quantization = QuantMode::INT8
+    };
+    
+    VisionEngine engine(config);
 
-## ⚡ System Architecture & Focus
 
-```yaml
-Developer:
-  Role: AI Systems Engineer
-  Core_Focus:
-    - Real-Time Computer Vision
-    - Edge AI Optimization (ONNX / TensorRT)
-    - Containerized Workflows (WSL2 + Docker)
-  Current_Status: "Building & Architecting Open Source AI Tools"
+
+
+    engine.deploy_pipeline("rt_stream_01");
+    return 0;
+}
